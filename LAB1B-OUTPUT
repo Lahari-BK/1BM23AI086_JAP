@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=54040" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\1BM23AI086\out\production\1BM23AI086 Lahari.gymMem
+Welcome to the Gym Membership Management System!
+Enter the name
+BK
+Enter the age of the member
+20
+Enter the status of the membership(true/false):
+FALSE
+Enter the duration of membership(in months):
+7
+The name of the member is BK
+The age of the member is 20
+The membership status of the member is false
+The duration of the member is 7
+The fee for the member is 350.0
+
+Process finished with exit code 0
