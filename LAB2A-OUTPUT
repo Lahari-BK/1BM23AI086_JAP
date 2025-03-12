@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=54479" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\1BM23AI086\out\production\1BM23AI086 Lahari.LAB2A
+Boxed Values:
+Boxed Integer: 10
+Boxed Double: 3.14
+Boxed Boolean: true
+Boxed Character: A
+Boxed Float: 5.75
+Boxed Byte: 100
+
+Unboxed Values:
+Unboxed Integer: 10
+Unboxed Double: 3.14
+Unboxed Boolean: true
+Unboxed Character: A
+Unboxed Float: 5.75
+Unboxed Byte: 100
+
+Process finished with exit code 0
