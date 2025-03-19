@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=52172" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\1BM23AI086\out\production\1BM23AI086 prg3b
+Capacity of stringBuffer objrct sb1:16
+Capacity of StringBuffer object sb2:21
+Enter a string:
+hiiii
+Reversed string in uppercaseIIIIH
+Enter a string to append:
+ili
+String after appending:iiiihili
+
+Process finished with exit code 0
