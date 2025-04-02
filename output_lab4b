@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=63816" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\1bm23ai095\out\production\1bm23ai095 lab4b
+Enter score for student 1:
+1
+Enter score for student 2:
+2
+Enter score for student 3:
+3
+Enter score for student 4:
+4
+Enter score for student 5:
+5
+
+Total sum of marks: 15
+Highest score: 5
+
+Process finished with exit code 0
