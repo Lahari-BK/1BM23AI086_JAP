@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=63221" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\1bm23ai095\out\production\1bm23ai095 mp.lab4a
+Is Monday a workday?true
+Is Saturday a workday?false
+
+Process finished with exit code 0
