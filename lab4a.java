@@ -1,0 +1,23 @@
+package mp;
+import java.util.Scanner;
+
+public class lab4a {
+        public enum DayOfWeek{
+            SUNDAY,
+            MONDAY,
+            TUESDAY,
+            WEDNESDAY,
+            THURSDAY,
+            FRIDAY,
+            SATURDAY;
+
+            public boolean isWorkday(){
+                return(this!=SATURDAY&&this!=SUNDAY);
+            }
+        }
+        public static void main(String[] args){
+            System.out.println("Is Monday a workday?" + DayOfWeek.MONDAY.isWorkday());
+            System.out.println("Is Saturday a workday?" + DayOfWeek.SATURDAY.isWorkday());
+
+        }
+}
