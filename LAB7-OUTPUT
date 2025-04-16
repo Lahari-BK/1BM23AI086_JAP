@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=59196" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\bm23ai086\out\production\bm23ai086 LABB7
+Inventory:
+1 | Crocin | Quantity: 100 | Price: 2.5
+2 | Calpol | Quantity: 50 | Price: 3.0
+3 | Crickmol | Quantity: 200 | Price: 1.0
+Inventory:
+1 | Crocin | Quantity: 90 | Price: 2.0
+2 | Calpol | Quantity: 50 | Price: 3.0
+3 | Crickmol | Quantity: 200 | Price: 1.0
+Searching for item with ID 2:
+Item found: Calpol
+Inventory:
+1 | Crocin | Quantity: 90 | Price: 2.0
+3 | Crickmol | Quantity: 200 | Price: 1.0
+
+Process finished with exit code 0
